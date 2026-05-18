@@ -1,5 +1,7 @@
 # 🩺 Pratham Chikitse — Emergency First Aid Android App
 
+live website url - https://appetize.io/app/b_klvexahisippokvmoy6md3al7u
+
 A bilingual (English + Kannada) AI-powered Android first-aid guide app for rural Karnataka.
 
 ## Features
